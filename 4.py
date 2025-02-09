@@ -1,3 +1,8 @@
+'''
+1. fillna
+2. dropna
+3. interpolate
+'''
 import pandas as pd
 df=pd.read_csv("weather_data.csv")
 print(df)
